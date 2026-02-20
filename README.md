@@ -25,4 +25,4 @@ Expected Outcomes: A fully cleaned and organized dataset corrected data types an
 
 💡 Future Enhancements : Future Enhancements: Automate the cleaning scripts, add validation rules for continuous quality checks, expand the dataset for deeper analysis.
 
-👨‍💻 Author : Asin Nisha S 📍 Arakkonam, Tamil Nadu, India 📧 asinshakir566@gmail.com
+👨‍💻 Author : Seyed javith 📍 Arakkonam, Tamil Nadu, India 📧 javithseyed777@gmail.com
